@@ -1,4 +1,4 @@
-# dasCHash
+r# dasCHash
 C# -> daScript converter
 
 Main idea here is that the converter does all the tedious syntax conversion, and then code is copy-pasted on as-needed basis into the ported project.
